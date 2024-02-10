@@ -35,7 +35,7 @@ const Register = () => {
                             "address":" ",
                             "pin":" ",
                             "email":" ",
-                            "password":" "
+                            "password":""
                     
                         }
                         
